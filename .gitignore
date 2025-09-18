@@ -1,0 +1,7 @@
+node_modules
+dist
+.vscode
+
+# moon dosen't seems to parshe the project file properly
+# so i am gone to ignore it for now
+moon.yml  
